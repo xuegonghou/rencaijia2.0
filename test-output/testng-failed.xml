@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test name="rencaijia2.0(failed)">
+    <classes>
+      <class name="org.testng.annotations.Test01.xueTEST.TestMail">
+        <methods>
+          <include name="verifyLogin"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.testng.annotations.Test01.xueTEST.TestMail -->
+    </classes>
+  </test> <!-- rencaijia2.0(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

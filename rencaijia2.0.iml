@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.testng:testng:6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.beust:jcommander:1.64" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.yaml:snakeyaml:1.17" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/selenium-java-3.3.1/client-combined-3.3.1-nodeps.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <ANNOTATIONS>
+          <root url="file://$MODULE_DIR$/.." />
+        </ANNOTATIONS>
+        <CLASSES>
+          <root url="jar://F:/selenium-java-3.3.1/lib/cglib-nodep-3.2.4.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/commons-codec-1.10.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/commons-exec-1.3.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/commons-io-2.5.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/commons-lang3-3.5.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/commons-logging-1.2.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/cssparser-0.9.21.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/gson-2.8.0.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/guava-21.0.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/hamcrest-library-1.3.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/hamcrest-core-1.3.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/htmlunit-2.24.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/htmlunit-core-js-2.23.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/htmlunit-driver-2.24.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/httpclient-4.5.2.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/httpcore-4.4.4.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/httpmime-4.5.2.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/javax.servlet-api-3.1.0.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/jetty-io-9.4.1.v20170120.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/jetty-util-9.4.1.v20170120.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/jna-4.1.0.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/jna-platform-4.1.0.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/junit-4.12.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/neko-htmlunit-2.24.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/phantomjsdriver-1.4.0.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/sac-1.3.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/serializer-2.7.2.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/websocket-api-9.2.20.v20161216.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/websocket-client-9.2.20.v20161216.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/websocket-common-9.2.20.v20161216.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/xalan-2.7.2.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/xercesImpl-2.11.0.jar!/" />
+          <root url="jar://F:/selenium-java-3.3.1/lib/xml-apis-1.4.01.jar!/" />
+          <root url="file://$MODULE_DIR$/.." />
+          <root url="file://$MODULE_DIR$/.." />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/.." />
+          <root url="file://$MODULE_DIR$/../Selenium/out/production/Selenium/src" />
+          <root url="file://$MODULE_DIR$/../Selenium/src" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/common/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/core/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/data-cleansing/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/domain/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/original-resume-base/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/persistent/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/persistent/src/test/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/properties/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/recruitment-service/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/recruitment-service/src/test/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/recruitment/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/recruitment/src/test/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/resume-import/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/rocket-mq/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/rocket-mq/src/test/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/schedule-manager/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/service-api/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/spider/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/spider/src/test/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/statistics/src/main/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia-develop/rencaijia/statistics/src/test/java" />
+          <root url="file://$MODULE_DIR$/src/test/java" />
+          <root url="file://$MODULE_DIR$/../rencaijia/src/test/java" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/.." recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/.." recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="jai_imageio-1.1-alpha" level="project" />
+    <orderEntry type="library" name="mysql-jdbc" level="project" />
+    <orderEntry type="library" name="swingx-1.0" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.0.0" level="project" />
+  </component>
+</module>
